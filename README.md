@@ -1,2 +1,3 @@
 # hello-world
-Learn github!
+
+I try to learn some things about GitHub!
